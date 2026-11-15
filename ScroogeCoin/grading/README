@@ -1,0 +1,7 @@
+Section: 01
+Name: George Hanna
+Email: ghanna@csu.fullerton.edu
+
+Implementation Notes:
+- Implemented extra credit MaxFeeTxHandler.java
+- All 15 autograder tests passed.
